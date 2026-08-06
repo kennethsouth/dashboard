@@ -1,0 +1,6 @@
+{
+  "name": "Equipment Check-In Out Dashboard",
+  "description": "Touch-optimized Windows wizard dashboard for equipment intake, outtake, serial barcode scanning, TDMA verification, division logging, and Excel export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
